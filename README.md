@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @AbdelbakiMissaoui
-- 👀 I’m interested in devops, cloud, web development, software engineering
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 class DevOpsConsultant:
